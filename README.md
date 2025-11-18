@@ -1,5 +1,6 @@
 <h1>Hi, I'm LaDonna Harris! <br/><a 
-href="https://www.linkedin.com/in/ladonna-harris-40788b7/">IT Data Analyst</a>
+href="https://www.linkedin.com/in/ladonna-harris-40788b7/">IT Data Analyst</a>,<a
+href=> Scrum Analyst</a>
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
